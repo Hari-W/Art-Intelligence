@@ -1,0 +1,77 @@
+
+body{
+    margin: 0%;
+}
+footer{
+    margin: 0%;
+}
+.logo{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    padding-top: 0%;
+    margin-top: none;
+    background-color: #93B5C6;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 0% 100% 100% 0% / 100% 0% 100% 0% ;
+    padding-left: 10px;
+
+  }
+  
+  .about{
+      color: black;
+      font-family: 'Roboto', sans-serif;
+      padding-top: 100px;
+
+
+  }
+
+  .text1 {
+    font-size: 1.4rem;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 30px;
+    
+  }
+  .container {
+      display: flex;
+
+  }
+
+  .contact{
+    border-radius:0% 100% 70% 30% / 100% 100% 0% 0% ;
+    font-family: 'Roboto', sans-serif;
+    background-attachment: fixed;
+    color: black; 
+    border-style: solid;
+    border-color:#93B5C6;
+    padding-left: 20px;
+  }
+
+  .logo {
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.6rem;
+    color: #0A043C
+    
+  }
+
+  .text{
+      color: #001F3F;
+      font-size: 1rem;
+      font-weight: bold ;
+  }
+
+  .underConstruction {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+
+  img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
